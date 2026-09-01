@@ -1,0 +1,57 @@
+about:
+  description: The ultimate beauty gRPC Client on your Terminal!
+  license: MIT
+  homepage: 
+  head: 8e5d9f9
+  archived: false
+  latestVersion: v0.2.0
+  collectedAt: 2026-09-01T05:21:56Z
+timeline:
+  created: 2022-12-27
+  lastCommit: 2026-03-29
+  lastRelease: 2026-03-29
+popularity:
+  star: 354
+  watcher: 2
+  fork: 7
+  release: 11
+  contributor: 3
+  pullRequest: 0
+  issue: 6
+language:
+  Go: 123535
+  Makefile: 4013
+totalLine: 127548
+recent:
+  last30d:
+    since: 2026-08-02
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last90d:
+    since: 2026-06-03
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last180d:
+    since: 2026-03-05
+    release: 1
+    mergedPR: 3
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 2
+  last360d:
+    since: 2025-09-06
+    release: 3
+    mergedPR: 6
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 8
