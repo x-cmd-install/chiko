@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 5796216,
       "digest": "sha256:dfbbfe9bad4674fb4d69199ce7ace2f9f7926db695b675b85c10ef1267dc6048",
-      "download_count": 60,
+      "download_count": 61,
       "created_at": "2026-03-29T03:29:29Z",
       "updated_at": "2026-03-29T03:29:29Z",
       "browser_download_url": "https://github.com/felangga/chiko/releases/download/v0.2.0/chiko_0.2.0_linux_amd64.tar.gz"
