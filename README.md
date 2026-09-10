@@ -22,11 +22,22 @@ x install chiko
 - **Latest**: `v0.2.0` (2026-03-29)
 - **Last commit**: 2026-03-29
 - **Assets in release**: 7
-- **Published**: 2026-03-29T03:27:16Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [chiko_0.2.0_checksums.txt](https://github.com/felangga/chiko/releases/download/v0.2.0/chiko_0.2.0_checksums.txt) | 588 B | `other` |
+| [chiko_0.2.0_darwin_amd64.tar.gz](https://github.com/felangga/chiko/releases/download/v0.2.0/chiko_0.2.0_darwin_amd64.tar.gz) | 5.6 MiB | `native/darwin/x64` |
+| [chiko_0.2.0_darwin_arm64.tar.gz](https://github.com/felangga/chiko/releases/download/v0.2.0/chiko_0.2.0_darwin_arm64.tar.gz) | 5.4 MiB | `native/darwin/arm64` |
+| [chiko_0.2.0_linux_amd64.tar.gz](https://github.com/felangga/chiko/releases/download/v0.2.0/chiko_0.2.0_linux_amd64.tar.gz) | 5.5 MiB | `native/linux/x64` |
+| [chiko_0.2.0_linux_arm64.tar.gz](https://github.com/felangga/chiko/releases/download/v0.2.0/chiko_0.2.0_linux_arm64.tar.gz) | 5.1 MiB | `native/linux/arm64` |
+| [chiko_0.2.0_windows_amd64.tar.gz](https://github.com/felangga/chiko/releases/download/v0.2.0/chiko_0.2.0_windows_amd64.tar.gz) | 5.6 MiB | `native/win/x64` |
+| [chiko_0.2.0_windows_arm64.tar.gz](https://github.com/felangga/chiko/releases/download/v0.2.0/chiko_0.2.0_windows_arm64.tar.gz) | 5.1 MiB | `native/win/arm64` |
 
 ## Popularity
 
-- **Stars**: 355 · **Forks**: 7 · **Open issues**: 6 · **Contributors**: 3
+- **Stars**: 354 · **Forks**: 7 · **Open issues**: 6 · **Contributors**: 3
 
 ## Totals (cumulative)
 
@@ -55,8 +66,8 @@ Total: **3,878** lines of code across **66** files in the top 5 languages.
 Install metadata for chiko lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `chiko` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/chiko.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/chiko.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T02:13:16Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T15:49:08Z._

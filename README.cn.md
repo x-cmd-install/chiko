@@ -4,7 +4,7 @@
 
 The ultimate beauty gRPC Client on your Terminal!
 
-![chiko](https://repo.x-cmd.io/chiko.svg)
+![chiko](https://repo.x-cmd.io/chiko.svg?lang=zh)
 
 ## 安装
 
@@ -22,11 +22,22 @@ x install chiko
 - **最新版本**: `v0.2.0` (2026-03-29)
 - **最近提交**: 2026-03-29
 - **Release 含资产**: 7 个
-- **发布时间**: 2026-03-29T03:27:16Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [chiko_0.2.0_checksums.txt](https://github.com/felangga/chiko/releases/download/v0.2.0/chiko_0.2.0_checksums.txt) | 588 B | `other` |
+| [chiko_0.2.0_darwin_amd64.tar.gz](https://github.com/felangga/chiko/releases/download/v0.2.0/chiko_0.2.0_darwin_amd64.tar.gz) | 5.6 MiB | `native/darwin/x64` |
+| [chiko_0.2.0_darwin_arm64.tar.gz](https://github.com/felangga/chiko/releases/download/v0.2.0/chiko_0.2.0_darwin_arm64.tar.gz) | 5.4 MiB | `native/darwin/arm64` |
+| [chiko_0.2.0_linux_amd64.tar.gz](https://github.com/felangga/chiko/releases/download/v0.2.0/chiko_0.2.0_linux_amd64.tar.gz) | 5.5 MiB | `native/linux/x64` |
+| [chiko_0.2.0_linux_arm64.tar.gz](https://github.com/felangga/chiko/releases/download/v0.2.0/chiko_0.2.0_linux_arm64.tar.gz) | 5.1 MiB | `native/linux/arm64` |
+| [chiko_0.2.0_windows_amd64.tar.gz](https://github.com/felangga/chiko/releases/download/v0.2.0/chiko_0.2.0_windows_amd64.tar.gz) | 5.6 MiB | `native/win/x64` |
+| [chiko_0.2.0_windows_arm64.tar.gz](https://github.com/felangga/chiko/releases/download/v0.2.0/chiko_0.2.0_windows_arm64.tar.gz) | 5.1 MiB | `native/win/arm64` |
 
 ## 流行度
 
-- **Star**: 355 · **Fork**: 7 · **开放 issue**: 6 · **贡献者**: 3
+- **Star**: 354 · **Fork**: 7 · **开放 issue**: 6 · **贡献者**: 3
 
 ## 累计统计
 
@@ -59,4 +70,4 @@ chiko 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T02:13:17Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T15:49:08Z._
