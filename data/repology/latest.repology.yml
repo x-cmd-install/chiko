@@ -1,0 +1,14 @@
+- repo: homebrew
+  srcname: chiko
+  visiblename: chiko
+  version: 0.2.0
+  origversion: null
+  status: unique
+  summary: Ultimate Beauty gRPC Client for your Terminal
+- repo: homebrew
+  srcname: chiko
+  visiblename: chiko
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Ultimate Beauty gRPC Client for your Terminal
