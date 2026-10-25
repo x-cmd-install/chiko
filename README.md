@@ -14,12 +14,12 @@ x install chiko
 
 ## Code insight
 
-Total: **3,878** lines of code across **66** files in the top 5 languages.
+Total: **4,291** lines of code across **74** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 3,791 | 245 | 796 | 64 |
-| Makefile | 87 | 21 | 17 | 1 |
+| Go | 4,200 | 297 | 857 | 72 |
+| Makefile | 91 | 21 | 18 | 1 |
 | Markdown | 0 | 87 | 47 | 1 |
 
 ## Source
@@ -30,27 +30,27 @@ Total: **3,878** lines of code across **66** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.2.0` (2026-03-29)
-- **Last commit**: 2026-03-29
+- **Last commit**: 2026-10-24
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 358 · **Forks**: 9 · **Open issues**: 6 · **Contributors**: 3
+- **Stars**: 358 · **Forks**: 9 · **Open issues**: 6 · **Contributors**: 4
 
 ## Totals (cumulative)
 
-- **Releases**: 11 · **Merged PRs**: 14 · **Open PRs**: 1 · **Closed issues**: 6 · **Open issues**: 0 · **Commits**: 95
+- **Releases**: 11 · **Merged PRs**: 17 · **Open PRs**: 4 · **Closed issues**: 6 · **Open issues**: 0 · **Commits**: 105
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-25 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 90d | 2026-07-26 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last180d | 2026-04-27 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 360d | 2025-10-29 | 3 | 5 | 1 | 0 | 0 | 8 |
-| last720d | 2024-11-03 | 7 | 11 | 1 | 2 | 0 | 31 |
+| 30d | 2026-09-25 | 0 | 2 | 4 | 0 | 0 | 2 |
+| last60d | 2026-08-26 | 0 | 3 | 4 | 0 | 0 | 9 |
+| 90d | 2026-07-27 | 0 | 3 | 4 | 0 | 0 | 9 |
+| last180d | 2026-04-28 | 0 | 3 | 4 | 0 | 0 | 9 |
+| 360d | 2025-10-30 | 3 | 8 | 4 | 0 | 0 | 15 |
+| last720d | 2024-11-04 | 7 | 14 | 4 | 2 | 0 | 41 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for chiko lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261024.yml` · 2026-10-24T02:36:20Z._
+_Snapshot: `data/card/261025.yml` · 2026-10-25T02:24:28Z._
