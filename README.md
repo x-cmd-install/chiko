@@ -29,7 +29,7 @@ Total: **4,311** lines of code across **74** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.2.0` (2026-03-29)
+- **Latest**: `v0.3.0` (2026-11-08)
 - **Last commit**: 2026-10-30
 - **Assets in release**: 7
 
@@ -39,30 +39,30 @@ Total: **4,311** lines of code across **74** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 11 · **Merged PRs**: 21 · **Open PRs**: 0 · **Closed issues**: 6 · **Open issues**: 0 · **Commits**: 109
+- **Releases**: 12 · **Merged PRs**: 21 · **Open PRs**: 0 · **Closed issues**: 6 · **Open issues**: 0 · **Commits**: 109
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 0 | 6 | 0 | 0 | 0 | 6 |
-| last60d | 2026-09-08 | 0 | 7 | 0 | 0 | 0 | 13 |
-| 90d | 2026-08-09 | 0 | 7 | 0 | 0 | 0 | 13 |
-| last180d | 2026-05-11 | 0 | 7 | 0 | 0 | 0 | 13 |
-| 360d | 2025-11-12 | 2 | 12 | 0 | 0 | 0 | 18 |
-| last720d | 2024-11-17 | 7 | 18 | 0 | 2 | 0 | 45 |
+| 30d | 2026-10-09 | 1 | 6 | 0 | 0 | 0 | 6 |
+| last60d | 2026-09-09 | 1 | 7 | 0 | 0 | 0 | 13 |
+| 90d | 2026-08-10 | 1 | 7 | 0 | 0 | 0 | 13 |
+| last180d | 2026-05-12 | 1 | 7 | 0 | 0 | 0 | 13 |
+| 360d | 2025-11-13 | 2 | 12 | 0 | 0 | 0 | 18 |
+| last720d | 2024-11-18 | 8 | 18 | 0 | 2 | 0 | 45 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [chiko_0.2.0_checksums.txt](https://github.com/felangga/chiko/releases/download/v0.2.0/chiko_0.2.0_checksums.txt) | 588 B | `other` |
-| [chiko_0.2.0_darwin_amd64.tar.gz](https://github.com/felangga/chiko/releases/download/v0.2.0/chiko_0.2.0_darwin_amd64.tar.gz) | 5.6 MiB | `native/darwin/x64` |
-| [chiko_0.2.0_darwin_arm64.tar.gz](https://github.com/felangga/chiko/releases/download/v0.2.0/chiko_0.2.0_darwin_arm64.tar.gz) | 5.4 MiB | `native/darwin/arm64` |
-| [chiko_0.2.0_linux_amd64.tar.gz](https://github.com/felangga/chiko/releases/download/v0.2.0/chiko_0.2.0_linux_amd64.tar.gz) | 5.5 MiB | `native/linux/x64` |
-| [chiko_0.2.0_linux_arm64.tar.gz](https://github.com/felangga/chiko/releases/download/v0.2.0/chiko_0.2.0_linux_arm64.tar.gz) | 5.1 MiB | `native/linux/arm64` |
-| [chiko_0.2.0_windows_amd64.tar.gz](https://github.com/felangga/chiko/releases/download/v0.2.0/chiko_0.2.0_windows_amd64.tar.gz) | 5.6 MiB | `native/win/x64` |
-| [chiko_0.2.0_windows_arm64.tar.gz](https://github.com/felangga/chiko/releases/download/v0.2.0/chiko_0.2.0_windows_arm64.tar.gz) | 5.1 MiB | `native/win/arm64` |
+| [chiko_0.3.0_checksums.txt](https://github.com/felangga/chiko/releases/download/v0.3.0/chiko_0.3.0_checksums.txt) | 588 B | `other` |
+| [chiko_0.3.0_darwin_amd64.tar.gz](https://github.com/felangga/chiko/releases/download/v0.3.0/chiko_0.3.0_darwin_amd64.tar.gz) | 5.6 MiB | `native/darwin/x64` |
+| [chiko_0.3.0_darwin_arm64.tar.gz](https://github.com/felangga/chiko/releases/download/v0.3.0/chiko_0.3.0_darwin_arm64.tar.gz) | 5.3 MiB | `native/darwin/arm64` |
+| [chiko_0.3.0_linux_amd64.tar.gz](https://github.com/felangga/chiko/releases/download/v0.3.0/chiko_0.3.0_linux_amd64.tar.gz) | 5.5 MiB | `native/linux/x64` |
+| [chiko_0.3.0_linux_arm64.tar.gz](https://github.com/felangga/chiko/releases/download/v0.3.0/chiko_0.3.0_linux_arm64.tar.gz) | 5.1 MiB | `native/linux/arm64` |
+| [chiko_0.3.0_windows_amd64.tar.gz](https://github.com/felangga/chiko/releases/download/v0.3.0/chiko_0.3.0_windows_amd64.tar.gz) | 5.6 MiB | `native/win/x64` |
+| [chiko_0.3.0_windows_arm64.tar.gz](https://github.com/felangga/chiko/releases/download/v0.3.0/chiko_0.3.0_windows_arm64.tar.gz) | 5.1 MiB | `native/win/arm64` |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for chiko lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261107.yml` · 2026-11-07T03:49:51Z._
+_Snapshot: `data/card/261108.yml` · 2026-11-08T03:30:22Z._
