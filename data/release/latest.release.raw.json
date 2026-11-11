@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 5606968,
       "digest": "sha256:ac46e22ada3f1fce36dc09847fc2eef27bc2318553f10162b976dcb1f550b610",
-      "download_count": 7,
+      "download_count": 9,
       "created_at": "2026-11-08T01:30:00Z",
       "updated_at": "2026-11-08T01:30:01Z",
       "browser_download_url": "https://github.com/felangga/chiko/releases/download/v0.3.0/chiko_0.3.0_darwin_arm64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 5800636,
       "digest": "sha256:af378779e2e643dc349a26f709436bc1e435dbe90ff7b39a9521b04215ba6964",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-11-08T01:29:59Z",
       "updated_at": "2026-11-08T01:30:00Z",
       "browser_download_url": "https://github.com/felangga/chiko/releases/download/v0.3.0/chiko_0.3.0_linux_amd64.tar.gz"
