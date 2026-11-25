@@ -3,8 +3,20 @@
   visiblename: chiko
   version: 0.3.0
   origversion: null
-  status: unique
+  status: newest
   summary: Ultimate Beauty gRPC Client for your Terminal
+- repo: aur
+  srcname: chiko-bin
+  binname: chiko-bin
+  visiblename: chiko-bin
+  version: 0.3.0
+  origversion: 0.3.0-1
+  status: newest
+  summary: gRPC client for the terminal
+  maintainers:
+    - ahp@aur
+  licenses:
+    - MIT
 - repo: homebrew
   srcname: chiko
   visiblename: chiko
